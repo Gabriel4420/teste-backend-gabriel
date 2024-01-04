@@ -1,4 +1,4 @@
-<h1>📙 Resultados Escolares API 📙</h1>
+<h1>📙 Desafio Teste Backend 📙</h1>
 
 <p>Bem-vindo à API de Resultados Escolares, uma aplicação em Node.js que permite gravar, excluir e listar resultados escolares por bimestre, disciplina, nota, data de criação e data de atualização. Esta API foi desenvolvida utilizando TypeScript, Prisma, Fastify e seguindo os princípios do padrão SOLID e Clean Code.</p>
 
