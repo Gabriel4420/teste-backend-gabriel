@@ -21,7 +21,7 @@
 <p>Clone este repositório:</p>
 
 ```bash
-git clone https://github.com/seu-usuario/api-resultados-escolares.git
+git clone https://github.com/Gabriel4420/teste-backend-gabriel.git
 ```
 
 <p>Instale as dependências:</p>
@@ -81,9 +81,9 @@ id
 
 A estrutura do projeto segue o padrão de arquitetura limpa (Clean Architecture) para garantir a separação de responsabilidades e a manutenibilidade do código. Os principais diretórios são:
 
-src/controllers: Controladores que lidam com as requisições HTTP.
-src/services: Lógica de negócios e interação com o banco de dados.
-src/routes: Definição das rotas da aplicação.
+<strong>src/controllers:</strong> Controladores que lidam com as requisições HTTP.<br/>
+<strong>src/services:</strong> Lógica de negócios e interação com o banco de dados.<br/>
+<strong>src/routes:</strong> Definição das rotas da aplicação.<br/>
 
 Espero que esta API seja útil para o gerenciamento de resultados escolares. Se precisar de ajuda ou tiver sugestões, não hesite em entrar em contato. ¡Boa codificação! 🚀
 
