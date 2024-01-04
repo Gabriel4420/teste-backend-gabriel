@@ -27,8 +27,6 @@ git clone https://github.com/Gabriel4420/teste-backend-gabriel.git
 <p>Instale as dependências:</p>
 
 ```bash
-cd api-resultados-escolares
-
 npm install
 ```
 
